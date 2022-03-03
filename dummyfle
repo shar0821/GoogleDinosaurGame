@@ -1,0 +1,42 @@
+/*
+particle{
+    border-radius:50%;
+    left:1;
+    pointer-events:none;
+    position:fixed;
+    top:1;
+    fill:'forwards'
+}
+particle{
+    opacity:0;
+}*/
+
+
+
+/*function moveBox(){
+  switch (e.key) {
+    case 'ArrowLeft': x.style.left = parseInt(x.style.top) + moveBy+'px';
+    break;
+    case 'ArrowRight': x.style.top = parseInt(x.style.top) + moveBy+'px';
+    break;
+    case 'ArrowUp':x.style.top = parseInt(x.style.top) + moveBy+'px';
+    break;
+    case 'ArrowDown':x.style.top = parseInt(x.style.top) + moveBy+'px';
+    break;
+  }
+}
+
+//var event=document.createEvent('CustomEvent')
+//window.addEventListener("keydown",(e)=>{makeBox(e)})*/
+/*const highlightedItems = userList.querySelectorAll(".highlighted");
+
+highlightedItems.forEach(function(userItem) {
+  deleteUser(userItem);
+});*/
+
+/*for(let i=0;i<Math.random()*variable+1;i++)
+{
+  x.remove(obs);
+}*/
+//put it in a list to pop later
+  //breaks between obstacles
